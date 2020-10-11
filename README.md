@@ -5,7 +5,7 @@ Do so with a relatively high level of accuracy, precision, and recall per Client
 
 Check and check.
 
-See "Location Predictions Analysis" above for Python Pipeline Analysis.
+**See "Location Predictions Analysis" above for Python Pipeline Analysis.**
 
 ## Background
 My client is developing a system to help people navigate a complex, unfamiliar interior space on a college campus.
