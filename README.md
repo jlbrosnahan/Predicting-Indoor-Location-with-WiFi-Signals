@@ -41,7 +41,7 @@ Data was collected by 20 individuals using mobile phone devices on a college cam
 * 9 remaining variables are Longitude, Latitude, Floor, BuildingID, SpaceID, Relative Position, UserID, PhoneID, and Time
 * Contains no missing values
 
-## Insights and Model Recommendation
+## Summary and Final Model Recommendation
 * Random Forest algorithms overall met or exceeded client minimum specification metrics for predicting WiFi locations on a college campus. 
 * Recall for location predictions on individual building datasets was higher than OOB dataset.
 * Recommend deploying Random Forest algorithms by individual buildings for Indoor Locationing smart phone app
