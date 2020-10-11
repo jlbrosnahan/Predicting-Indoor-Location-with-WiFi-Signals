@@ -51,4 +51,3 @@ Data was collected by 20 individuals using mobile phone devices on a college cam
 
 ## Absolute Recall Performance Comparison of Random Forest Models
 ![Visual 2](https://github.com/jlbrosnahan/Predicting-Locations-with-WiFi-Signal-Data/blob/main/Recall%20comparison.png)
-
