@@ -1,8 +1,11 @@
 # Smart Phone Location Predictions using WiFi Signal Data
 Build an algorithm to predict an individual's location using their Smart Phone and WiFi signals? 
+
 Do so with a relatively high level of accuracy, precision, and recall per Client Minimum Specifications? 
 
 Check and check.
+
+See "Location Predictions Analysis" above for Python Pipeline Analysis.
 
 ## Background
 My client is developing a system to help people navigate a complex, unfamiliar interior space on a college campus.
