@@ -50,4 +50,11 @@ Data was collected by 20 individuals using mobile phone devices on a college cam
 ![Visual 1](https://github.com/jlbrosnahan/Predicting-Locations-with-WiFi-Signal-Data/blob/main/Post-resample%20Model%20Comparison.png)
 
 ## Absolute Recall Performance Comparison of Random Forest Models
-![Visual 2](https://github.com/jlbrosnahan/Predicting-Locations-with-WiFi-Signal-Data/blob/main/Recall%20comparison.png)
+![Visual 2](https://github.com/jlbrosnahan/Predicting-Locations-with-WiFi-Signal-Data/blob/main/Recall%20Comparison.png)
+* Higher recall is better
+* Total locations in 75-100% recall ranges:
+* Oob2:  456 
+* Buildings 0, 1, 2:  483 
+* 27 more locations in high recall range for individual buildings versus full dataset
+
+
