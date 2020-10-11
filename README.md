@@ -47,7 +47,7 @@ Data was collected by 20 individuals using mobile phone devices on a college cam
 * Recommend deploying Random Forest algorithms by individual buildings for Indoor Locationing smart phone app
 
 ## Post-resample Performance Comparison of All Models
-![Visual 1](https://github.com/jlbrosnahan/Predict-Sales_Volume/blob/master/Rplot02.jpeg)
+![Visual 1](https://github.com/jlbrosnahan/Predicting-Locations-with-WiFi-Signal-Data/blob/main/Post-resample%20Model%20Comparison.png)
 
 ## Absolute Recall Performance Comparison of Random Forest Models
 
